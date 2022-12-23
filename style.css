@@ -1,0 +1,38 @@
+#blue{
+    background-color: rgb(244, 246, 204);
+}
+/* #link{
+    background-color: azure;
+} */
+#red{
+    background-color: rgb(234, 228, 203);
+    padding: 62px;
+    border-radius: 40px;
+   
+}
+#green{
+    background-color:rgb(95, 88, 79);
+    background-image: url(https://cvdragon.com/public/img/camp/about.png);
+    /* padding-left: 54px;
+    image-resolution: 5px; */
+}
+#pink{
+    background-color:rgb(234, 226, 216); 
+    background-image: url(https://global-uploads.webflow.com/6077f96cf4fa19216396daaf/61963d8099614107e06b5d01_sca%20what%20will.svg);
+    background-repeat: no-repeat;
+    padding: 55px;
+    
+}
+/* body{
+    background-image: url(https://engineersconnect.com/assets/images/testimonials/ca-banner.jpe);
+} */
+#orange{
+    background-color: rgb(244, 246, 204) ;
+    background-image:url(https://job.blockvila.com/argon/img/brand/about.png);
+    background-repeat: no-repeat;
+   background-position-y: bottom;
+}
+#purple{
+    background-image: url(https://static.wixstatic.com/media/013885_3211ae7f78254cd28b4ad1ae405faa60~mv2.png/v1/fill/w_580,h_354,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/sa_students.png);
+   
+}
