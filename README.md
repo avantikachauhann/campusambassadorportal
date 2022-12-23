@@ -1,4 +1,4 @@
-# Innerve Hacks
+#  Campus Ambassador Portal
 Project made for innerve hacks hackathon. Oct'22
 
 Coding Ninjas
